@@ -67,6 +67,6 @@ search:
 
 footer:
     builtWith:
-        other: "{{ .Generator }}로 만듦"
+        other: "{{ .Generator }}"
     designedBy:
-        other: "{{ .DesignedBy }}의 {{ .Theme }} 테마 사용 중"
+        other: "{{ .Theme }} By {{ .DesignedBy }} "
